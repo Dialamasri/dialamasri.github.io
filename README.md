@@ -1,20 +1,20 @@
 ## Education 
-**Ph.D** in International Development, University of Oxford, Jan 2019 – June 2021
+- **Ph.D** in International Development, University of Oxford, Jan 2019 – June 2021
 Rhodes Scholar (First from Lebanon), Focus: Labor Markets and Migration 
 Courses audited/taken: Labor Economics
 
 
-**MSc** in Economics for Development University of Oxford, Sep 2017 - June 2018
+- **MSc** in Economics for Development University of Oxford, Sep 2017 - June 2018
 Rhodes Scholar, Overall Merit and Distinction on Dissertation Sep 2017 - June 2018
 Courses taken:
 
 
-**MA** in Policy Economics Williams College, Aug 2014-June 2015
+- **MA** in Policy Economics Williams College, Aug 2014-June 2015
 Fulbright Scholar, GPA: 4.12 
 Courses taken: 
 
 
-**BA** in International Affairs Lebanese American University, Sep 2011-June 2014
+- **BA** in International Affairs Lebanese American University, Sep 2011-June 2014
 Full Merit Scholar, Highest GPA (4.00) in the School of Arts and Sciences 
 Torch Award for Exceptional Leadership
 Diplomacy Award at the Harvard World Model United Nations in Melbourne, Australia
@@ -40,6 +40,9 @@ submitted, 2019. <!--[link-to-arXiv:1912.0957](https://arxiv.org/abs/1912.09587)
 3. [Derivation and numerical simulation of oxygen transport in blood vessels](https://scholarship.rice.edu/handle/1911/107400).  
 R. Masri.  
 Thesis for degree of Master of Arts, Rice University. 2019. <!--[link to thesis](https://scholarship.rice.edu/handle/1911/107400).-->
+
+## Awards 
+
 
 ## Professional Experience 
 **St John’s College, University of Oxford**
