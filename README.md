@@ -20,22 +20,28 @@ Fall 2019 - Spring 2020
 - **Grader**, CAAM 453: Numerical Analysis I, Fall 2018
 
 ## Professional Experience 
-St John’s College, University of Oxford
+**St John’s College, University of Oxford**
+
 Junior Dean Feb 2019 - present
 
-International Monetary Fund
+**International Monetary Fund**
+
 Fund Internship Program June. 2020 – Sep. 2020
 
-Inter-American Development Bank (IDB)
+**Inter-American Development Bank (IDB)**
+
 Consultant Sep. 2019 – May 2020
 
-The Rhodes Trust, University of Oxford
+**The Rhodes Trust, University of Oxford**
+
 Co-Chair of the Executive Committee of the Inaugural SAID-Rhodes Forum Sep 2019 - Feb 2020
 
-Economic Policy Research Institute (EPRI) Lebanon
+**Economic Policy Research Institute (EPRI) Lebanon**
+
 Consultant June 2017 – Sep 2017
 
-Economics Department, Williams College
+**Economics Department, Williams College**
+
 Teaching and Research Fellow June 2017 – Sep 2017
 
 
