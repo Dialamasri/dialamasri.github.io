@@ -2,12 +2,15 @@
 **Ph.D** in International Development, University of Oxford, Jan 2019 – June 2021
 Rhodes Scholar (First from Lebanon), Focus: Labor Markets and Migration 
 Courses audited/taken: Labor Economics
+
 **MSc** in Economics for Development University of Oxford, Sep 2017 - June 2018
 Rhodes Scholar, Overall Merit and Distinction on Dissertation Sep 2017 - June 2018
 Courses taken:
+
 **MA** in Policy Economics Williams College, Aug 2014-June 2015
 Fulbright Scholar, GPA: 4.12 
 Courses taken: 
+
 **BA** in International Affairs Lebanese American University, Sep 2011-June 2014
 Full Merit Scholar, Highest GPA (4.00) in the School of Arts and Sciences 
 Torch Award for Exceptional Leadership
