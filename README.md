@@ -14,10 +14,10 @@ Torch Award for Exceptional Leadership
 Diplomacy Award at the Harvard World Model United Nations in Melbourne, Australia
 
 ## Teaching
-- **Teaching Assistant**, CAAM 336:Differential equations in science and engineering,
-Fall 2019 - Spring 2020
-- **Grader**, CAAM 336, Fall 2017 - Spring 2018
-- **Grader**, CAAM 453: Numerical Analysis I, Fall 2018
+- **Teaching Assistant and Research Fellow**, courses: Macroeconomics for developing countries, Econometrics I and II, Public Economics, Macroeconometrics. Department of Economics, Williams College,
+June 2015 – Sep 2017
+- **Tutorial Instructor**, course: Development Economics.  Department of Economics, University of Oxford
+- **Grader**, course: Development Economics. Exeter College Summer Programme, University of Oxford
 
 ## Professional Experience 
 **St John’s College, University of Oxford**
@@ -42,7 +42,7 @@ Consultant June 2017 – Sep 2017
 
 **Economics Department, Williams College**
 
-Teaching and Research Fellow June 2017 – Sep 2017
+Teaching and Research Fellow June 2015 – Sep 2017
 
 
 
