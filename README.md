@@ -17,6 +17,7 @@ Fall 2019 - Spring 2020
 1. A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks.  
 R. Masri, C. Puelz, B. Riviere.  
 submitted, 2020.
+3. CV: <a href="CV.pdf">CV</a>
 2. [the name of paper](https://arxiv.org/abs/1912.09587).   
 R. Masri, C. Puelz, B. Riviere.   
 submitted, 2019.
