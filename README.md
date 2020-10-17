@@ -23,11 +23,6 @@
 
    *Full Merit Scholar, Highest GPA (4.00) in the School of Arts and Sciences* 
 
-   *Torch Award for Exceptional Leadership*
-
-   *Diplomacy Award at the Harvard World Model United Nations in Melbourne, Australia*
-
-
 ## Teaching
 - **Tutorial Instructor**, Exeter College Summer Programme, University of Oxford
 
@@ -47,10 +42,8 @@
 
 *Work in progress in collaboration with the IMF as part of the Fund Internship Programme (2020)*
 
-- The Impact of Migration on Trade: Evidence from Brazil 
-
+- The Impact of Migration on Trade: Evidence from Brazil, submitted to Inter-American Development Bank (IDB) working papers*
 *Al Masri, D and Silva, C. (2020).  
-submitted to Inter-American Development Bank (IDB) working papers*
 
 <!---3. Revisiting the effects of a Peruvian Conditional Cash Transfer on
 utilisation of health services by pregnant women and children. 
@@ -82,29 +75,24 @@ Thesis for degree of Master of Science, University of Oxford. Grade: Distinction
 ## Professional Experience 
 
 **St John’s College, University of Oxford** Feb. 2019 - present
-
-Junior Dean 
-
+   
+   *Junior Dean* 
+   
 **International Monetary Fund**  June. 2020 – Sep. 2020
-
-Fund Internship Program
+   
+   *Fund Internship Program*
 
 **Inter-American Development Bank (IDB)**  Sep. 2019 – May 2020
-
-Consultant 
+   
+   *Consultant* 
 
 **The Rhodes Trust, University of Oxford**  Sep. 2019 - Feb 2020
-
-Co-Chair of the Executive Committee of the Inaugural SAID-Rhodes Forum 
-
-**Economics Department, University of Oxford** 
-
-Tutorial Instructor
+   
+   *Co-Chair of the Executive Committee of the Inaugural SAID-Rhodes Forum* 
 
 **Economic Policy Research Institute (EPRI) Lebanon**  June 2017 – Sep. 2017
-
-Consultant 
+   
+   *Consultant* 
 
 **Economics Department, Williams College**  Sep. 2015 – Sep. 2017
-
-Research Fellow June 
+   *Research Fellow June* 
