@@ -43,7 +43,7 @@ Thesis for degree of Master of Arts, Rice University. 2019. <!--[link to thesis]
 
 ## Awards 
 
-- **[Rhodes Scholar] (https://www.rhodeshouse.ox.ac.uk/news-events/latest-news/news/2016/november/rhodes-scholarships-awarded-for-the-middle-east-in-historic-launch/)** (First Rhodes Scholar from Lebanon)  <!--[Rhodes Scholar](https://www.rhodeshouse.ox.ac.uk/news-events/latest-news/news/2016/november/rhodes-scholarships-awarded-for-the-middle-east-in-historic-launch/).-->
+- **[Rhodes Scholar]**(https://www.rhodeshouse.ox.ac.uk/news-events/latest-news/news/2016/november/rhodes-scholarships-awarded-for-the-middle-east-in-historic-launch/) (First Rhodes Scholar from Lebanon)  <!--[Rhodes Scholar](https://www.rhodeshouse.ox.ac.uk/news-events/latest-news/news/2016/november/rhodes-scholarships-awarded-for-the-middle-east-in-historic-launch/).-->
 
 ## Professional Experience 
 **St John’s College, University of Oxford**
