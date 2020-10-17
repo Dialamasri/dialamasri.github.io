@@ -1,39 +1,53 @@
 ## Education 
-- **Ph.D** in International Development, University of Oxford, Jan 2019 – June 2021
-Rhodes Scholar (First from Lebanon), Focus: Labor Markets and Migration 
+- **Ph.D in International Development, University of Oxford**, Jan 2019 – June 2021
+
+Rhodes Scholar (First from Lebanon)
+
+Resrearch Focus: Labor Markets and Migration 
+
 Highlighted Courses audited/taken: Labor Economics, Empirical Microeconomics, Development Economics I II, Advanced Econometrics.
 
 
-- **MSc** in Economics for Development University of Oxford, Sep 2017 - June 2018
-Rhodes Scholar, Overall Merit and Distinction on Dissertation 
+- **MSc in Economics for Development, University of Oxford**, Sep 2017 - June 2018
+Rhodes Scholar (First from Lebanon)
+
+Overall Merit and Distinction on Dissertation 
 
 
 
-- **MA** in Policy Economics Williams College, Aug 2014-June 2015
+- **MA in Policy Economics, Williams College**, Aug 2014-June 2015
 Fulbright Scholar, GPA: 4.12 
+
 Highlighted Courses audited/taken: Multivariable Calculus, Linear Algebra, Real Analysis, Advanced Econometrics. 
 
-- **BA** in International Affairs Lebanese American University, Sep 2011-June 2014
+- **BA in International Affairs, Lebanese American University**, Sep 2011-June 2014
+
 Full Merit Scholar, Highest GPA (4.00) in the School of Arts and Sciences 
+
 Torch Award for Exceptional Leadership
+
 Diplomacy Award at the Harvard World Model United Nations in Melbourne, Australia
 
 
 ## Teaching
-- **Teaching Assistant and Research Fellow**, courses: Macroeconomics for developing countries, Econometrics I and II, Public Economics, Macroeconometrics. Department of Economics, Williams College,
-June 2015 – Sep 2017
-- **Tutorial Instructor**, course: Development Economics.  Department of Economics, University of Oxford
-- **Tutorial Instructor**, course: Development Economics. Exeter College Summer Programme, University of Oxford
+- **Teaching Assistant and Research Fellow**, Department of Economics, Williams College, June 2015 – Sep 2017
+Courses: Macroeconomics for developing countries, Econometrics I and II, Public Economics, Macroeconometrics. 
 
+- **Tutorial Instructor**,  Department of Economics, University of Oxford
 
+Course: Development Economics. 
+
+- **Tutorial Instructor**, Exeter College Summer Programme, University of Oxford
+
+Course: Development Economics.
 
 
 
 ## Papers 
--- Short Term Impacts of Covid-19 on Brazil's Labor Markets. 
+- Short Term Impacts of Covid-19 on Brazil's Labor Markets. 
 Work in progress in collaboration with the IMF as part of the Fund Internship Programme (2020).
 
--- The Impact of Migration on Trade: Evidence from Brazil.  
+- The Impact of Migration on Trade: Evidence from Brazil.  
 Al Masri, D and Silva, C. (2020).  
 submitted to Inter-American Development Bank (IDB) working papers.
 
@@ -41,11 +55,13 @@ submitted to Inter-American Development Bank (IDB) working papers.
 utilisation of health services by pregnant women and children. 
 Al Masri, D. and Smarrelli, G.---> 
 
--- [UNICEF Child Protection Programme for Vulnerable Children and Women](https://www.unicef.org/evaldatabase/files/UNICEFLebanonCPGBVEvaluationReport.pdf).   
+- [UNICEF Child Protection Programme for Vulnerable Children and Women](https://www.unicef.org/evaldatabase/files/UNICEFLebanonCPGBVEvaluationReport.pdf).   
 Al Masri, D. ; Hoeks, C. ; Huijbregts, N. ; Nagesh, R. (2017). <!--[UNICEF Child Protection Programme for Vulnerable Children and Women](https://www.unicef.org/evaldatabase/files/UNICEFLebanonCPGBVEvaluationReport.pdf).-->  
--- [Nonlinearities in Financial Development; The Good, the Bad and the Beautiful](https://drive.google.com/file/d/0B7ffqHyIHo3PVXV0QzFXS2Jna1E/view).   
+
+- [Nonlinearities in Financial Development; The Good, the Bad and the Beautiful](https://drive.google.com/file/d/0B7ffqHyIHo3PVXV0QzFXS2Jna1E/view).   
 Al Masri, D. and Pedroni, P. (2020). <!--[Nonlinearities in Financial Development; The Good, the Bad and the Beautiful](https://drive.google.com/file/d/0B7ffqHyIHo3PVXV0QzFXS2Jna1E/view).-->  
--- [Impact of War on Human Capital: Evidence from Lebanon].  
+
+- Impact of War on Human Capital: Evidence from Lebanon.  
 Al Masri, D. (2017).  
 Thesis for degree of Master of Science, University of Oxford. Grade: Distinction. 
 
