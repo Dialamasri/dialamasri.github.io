@@ -1,7 +1,7 @@
 ## Education 
 - **Ph.D in International Development, University of Oxford**, Jan 2019 – June 2021
-
-Rhodes Scholar (First from Lebanon)
+   
+   Rhodes Scholar (First from Lebanon)
 
 Resrearch Focus: Labor Markets and Migration 
 
