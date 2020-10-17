@@ -15,7 +15,7 @@
 
 - **MA in Policy Economics, Williams College**, Aug 2014-June 2015
 
-   *Fulbright Scholar, GPA: 4.12*
+   *Fulbright Scholar, GPA: 4.07*
 
    *Highlighted Courses audited/taken: Linear Algebra, Real Analysis, Advanced Econometrics* 
 
