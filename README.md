@@ -1,11 +1,13 @@
 ## Education 
 - **Ph.D** in International Development, University of Oxford, Jan 2019 – June 2021
+
 Rhodes Scholar (First from Lebanon), Focus: Labor Markets and Migration 
 Courses audited/taken: Labor Economics
 
 
 - **MSc** in Economics for Development University of Oxford, Sep 2017 - June 2018
-Rhodes Scholar, Overall Merit and Distinction on Dissertation Sep 2017 - June 2018
+
+Rhodes Scholar, Overall Merit and Distinction on Dissertation 
 Courses taken:
 
 
@@ -15,6 +17,7 @@ Courses taken:
 
 
 - **BA** in International Affairs Lebanese American University, Sep 2011-June 2014
+
 Full Merit Scholar, Highest GPA (4.00) in the School of Arts and Sciences 
 Torch Award for Exceptional Leadership
 Diplomacy Award at the Harvard World Model United Nations in Melbourne, Australia
@@ -31,14 +34,21 @@ June 2015 – Sep 2017
 
 
 ## Papers 
-1. The Impact of Migration on Trade: Evidence from Brazil.  
-Al, Masri, D and Silva, C. (2020).  
+1. Short Term Impacts of Covid-19 on Brazil's Labor Markets. 
+Work in progress in collaboration with the IMF as part of the Fund Internship Programme (2020).
+
+2. The Impact of Migration on Trade: Evidence from Brazil.  
+Al Masri, D and Silva, C. (2020).  
 submitted to Inter-American Development Bank (IDB) working papers.
-2. [UNICEF Child Protection Programme for Vulnerable Children and Women](https://www.unicef.org/evaldatabase/files/UNICEFLebanonCPGBVEvaluationReport.pdf).   
+
+<!---3. Revisiting the effects of a Peruvian Conditional Cash Transfer on
+utilisation of health services by pregnant women and children. 
+Al Masri, D. and Smarrelli, G.---> 
+3. [UNICEF Child Protection Programme for Vulnerable Children and Women](https://www.unicef.org/evaldatabase/files/UNICEFLebanonCPGBVEvaluationReport.pdf).   
 Al Masri, D. ; Hoeks, C. ; Huijbregts, N. ; Nagesh, R. (2017). <!--[UNICEF Child Protection Programme for Vulnerable Children and Women](https://www.unicef.org/evaldatabase/files/UNICEFLebanonCPGBVEvaluationReport.pdf).-->  
-3. [Nonlinearities in Financial Development; The Good, the Bad and the Beautiful](https://drive.google.com/file/d/0B7ffqHyIHo3PVXV0QzFXS2Jna1E/view).   
+4. [Nonlinearities in Financial Development; The Good, the Bad and the Beautiful](https://drive.google.com/file/d/0B7ffqHyIHo3PVXV0QzFXS2Jna1E/view).   
 Al Masri, D. and Pedroni, P. (2020). <!--[Nonlinearities in Financial Development; The Good, the Bad and the Beautiful](https://drive.google.com/file/d/0B7ffqHyIHo3PVXV0QzFXS2Jna1E/view).-->  
-3. [Impact of War on Human Capital: Evidence from Lebanon].  
+5. [Impact of War on Human Capital: Evidence from Lebanon].  
 Al Masri, D. (2017).  
 Thesis for degree of Master of Science, University of Oxford. Grade: Distinction. 
 
