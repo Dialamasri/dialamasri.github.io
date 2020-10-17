@@ -57,26 +57,26 @@ Thesis for degree of Master of Science, University of Oxford. Grade: Distinction
 
 ## Professional Experience 
 
-**St John’s College, University of Oxford**
+**St John’s College, University of Oxford** 2019 - present
 
-Junior Dean Feb 2019 - present
+Junior Dean Feb 
 
-**International Monetary Fund**
+**International Monetary Fund**  June. 2020 – Sep. 2020
 
-Fund Internship Program June. 2020 – Sep. 2020
+Fund Internship Program
 
-**Inter-American Development Bank (IDB)**
+**Inter-American Development Bank (IDB)**  Sep. 2019 – May 2020
 
-Consultant Sep. 2019 – May 2020
+Consultant 
 
-**The Rhodes Trust, University of Oxford**
+**The Rhodes Trust, University of Oxford**  Sep 2019 - Feb 2020
 
-Co-Chair of the Executive Committee of the Inaugural SAID-Rhodes Forum Sep 2019 - Feb 2020
+Co-Chair of the Executive Committee of the Inaugural SAID-Rhodes Forum 
 
-**Economic Policy Research Institute (EPRI) Lebanon**
+**Economic Policy Research Institute (EPRI) Lebanon**  June 2017 – Sep 2017
 
-Consultant June 2017 – Sep 2017
+Consultant 
 
-**Economics Department, Williams College**
+**Economics Department, Williams College**  2015 – Sep 2017
 
-Teaching and Research Fellow June 2015 – Sep 2017
+Teaching and Research Fellow June 
