@@ -1,55 +1,56 @@
 ## Education 
 - **Ph.D in International Development, University of Oxford**, Jan 2019 – June 2021
    
-   Rhodes Scholar (First from Lebanon)
+   *Rhodes Scholar (First from Lebanon)*
 
-Resrearch Focus: Labor Markets and Migration 
+   *Resrearch Focus: Labor Markets and Migration* 
 
-Highlighted Courses audited/taken: Labor Economics, Empirical Microeconomics, Development Economics I II, Advanced Econometrics.
-
+   *Highlighted Courses audited/taken: Labor Economics, Empirical Microeconomics, Development Economics I II, Advanced Econometrics*
 
 - **MSc in Economics for Development, University of Oxford**, Sep 2017 - June 2018
-Rhodes Scholar (First from Lebanon)
+   
+   *Rhodes Scholar (First from Lebanon)*
 
-Overall Merit and Distinction on Dissertation 
-
-
+   *Overall Merit and Distinction on Dissertation* 
 
 - **MA in Policy Economics, Williams College**, Aug 2014-June 2015
-Fulbright Scholar, GPA: 4.12 
 
-Highlighted Courses audited/taken: Multivariable Calculus, Linear Algebra, Real Analysis, Advanced Econometrics. 
+   *Fulbright Scholar, GPA: 4.12*
+
+   *Highlighted Courses audited/taken: Linear Algebra, Real Analysis, Advanced Econometrics* 
 
 - **BA in International Affairs, Lebanese American University**, Sep 2011-June 2014
 
-Full Merit Scholar, Highest GPA (4.00) in the School of Arts and Sciences 
+   *Full Merit Scholar, Highest GPA (4.00) in the School of Arts and Sciences* 
 
-Torch Award for Exceptional Leadership
+   *Torch Award for Exceptional Leadership*
 
-Diplomacy Award at the Harvard World Model United Nations in Melbourne, Australia
+   *Diplomacy Award at the Harvard World Model United Nations in Melbourne, Australia*
 
 
 ## Teaching
-- **Teaching Assistant and Research Fellow**, Department of Economics, Williams College, June 2015 – Sep 2017
-Courses: Macroeconomics for developing countries, Econometrics I and II, Public Economics, Macroeconometrics. 
+- **Tutorial Instructor**, Exeter College Summer Programme, University of Oxford
+
+*Course: Development Economics*
 
 - **Tutorial Instructor**,  Department of Economics, University of Oxford
 
-Course: Development Economics. 
+*Course: Development Economics* 
 
-- **Tutorial Instructor**, Exeter College Summer Programme, University of Oxford
+- **Teaching Assistant **, Department of Economics, Williams College, June 2015 – Sep 2017
 
-Course: Development Economics.
-
+*Courses: Macroeconomics for developing countries, Econometrics I and II, Public Economics, Macroeconometrics*
 
 
 ## Papers 
-- Short Term Impacts of Covid-19 on Brazil's Labor Markets. 
-Work in progress in collaboration with the IMF as part of the Fund Internship Programme (2020).
+- Short Term Impacts of Covid-19 on Brazil's Labor Markets 
 
-- The Impact of Migration on Trade: Evidence from Brazil.  
-Al Masri, D and Silva, C. (2020).  
-submitted to Inter-American Development Bank (IDB) working papers.
+*Work in progress in collaboration with the IMF as part of the Fund Internship Programme (2020)*
+
+- The Impact of Migration on Trade: Evidence from Brazil 
+
+*Al Masri, D and Silva, C. (2020).  
+submitted to Inter-American Development Bank (IDB) working papers*
 
 <!---3. Revisiting the effects of a Peruvian Conditional Cash Transfer on
 utilisation of health services by pregnant women and children. 
@@ -106,4 +107,4 @@ Consultant
 
 **Economics Department, Williams College**  Sep. 2015 – Sep. 2017
 
-Teaching and Research Fellow June 
+Research Fellow June 
