@@ -57,7 +57,7 @@ Al Masri, D. and Smarrelli, G.--->
 *Al Masri, D. and Pedroni, P. (2020).* <!--[Nonlinearities in Financial Development; The Good, the Bad and the Beautiful](https://drive.google.com/file/d/0B7ffqHyIHo3PVXV0QzFXS2Jna1E/view).-->  
 
 - Impact of War on Human Capital: Evidence from Lebanon.  
-*Al Masri, D. (2017).  
+*Al Masri, D. (2017).*  
 Thesis for degree of Master of Science, University of Oxford. Grade: Distinction. 
 
 ## Awards 
