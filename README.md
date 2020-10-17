@@ -32,7 +32,7 @@
 
 *Course: Development Economics* 
 
-- **Teaching Assistant **, Department of Economics, Williams College, June 2015 – Sep 2017
+- **Teaching Assistant**, Department of Economics, Williams College, June 2015 – Sep 2017
 
 *Courses: Macroeconomics for developing countries, Econometrics I and II, Public Economics, Macroeconometrics*
 
