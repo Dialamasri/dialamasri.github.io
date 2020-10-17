@@ -31,21 +31,32 @@ June 2015 – Sep 2017
 
 
 ## Papers 
-1. A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks.  
-R. Masri, C. Puelz, B. Riviere.  
-submitted, 2020.
-2. [A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile](https://arxiv.org/abs/1912.09587).   
-R. Masri, C. Puelz, B. Riviere.   
-submitted, 2019. <!--[link-to-arXiv:1912.0957](https://arxiv.org/abs/1912.09587).-->  
-3. [Derivation and numerical simulation of oxygen transport in blood vessels](https://scholarship.rice.edu/handle/1911/107400).  
-R. Masri.  
-Thesis for degree of Master of Arts, Rice University. 2019. <!--[link to thesis](https://scholarship.rice.edu/handle/1911/107400).-->
+1. The Impact of Migration on Trade: Evidence from Brazil.  
+Al, Masri, D and Silva, C. (2020).  
+submitted to Inter-American Development Bank (IDB) working papers.
+2. [UNICEF Child Protection Programme for Vulnerable Children and Women](https://www.unicef.org/evaldatabase/files/UNICEFLebanonCPGBVEvaluationReport.pdf).   
+Al Masri, D. ; Hoeks, C. ; Huijbregts, N. ; Nagesh, R. (2017). <!--[UNICEF Child Protection Programme for Vulnerable Children and Women](https://www.unicef.org/evaldatabase/files/UNICEFLebanonCPGBVEvaluationReport.pdf).-->  
+3. [Nonlinearities in Financial Development; The Good, the Bad and the Beautiful](https://drive.google.com/file/d/0B7ffqHyIHo3PVXV0QzFXS2Jna1E/view).   
+Al Masri, D. and Pedroni, P. (2020). <!--[Nonlinearities in Financial Development; The Good, the Bad and the Beautiful](https://drive.google.com/file/d/0B7ffqHyIHo3PVXV0QzFXS2Jna1E/view).-->  
+3. [Impact of War on Human Capital: Evidence from Lebanon].  
+Al Masri, D. (2017).  
+Thesis for degree of Master of Science, University of Oxford. Grade: Distinction. 
 
 ## Awards 
 
-- **[Rhodes Scholar](https://www.rhodeshouse.ox.ac.uk/news-events/latest-news/news/2016/november/rhodes-scholarships-awarded-for-the-middle-east-in-historic-launch/)** (First Rhodes Scholar from Lebanon)  <!--[Rhodes Scholar](https://www.rhodeshouse.ox.ac.uk/news-events/latest-news/news/2016/november/rhodes-scholarships-awarded-for-the-middle-east-in-historic-launch/).-->
+- **[Rhodes Scholar (2017)](https://www.rhodeshouse.ox.ac.uk/news-events/latest-news/news/2016/november/rhodes-scholarships-awarded-for-the-middle-east-in-historic-launch/)** (First Rhodes Scholar from Lebanon)  <!--[Rhodes Scholar](https://www.rhodeshouse.ox.ac.uk/news-events/latest-news/news/2016/november/rhodes-scholarships-awarded-for-the-middle-east-in-historic-launch/).-->
+- **[Fulbright Scholar (2014)](https://www.amideast.org/news-resources/announcements/lebanon-west-bank-gaza/hope-fund-scholar-fulbright-alumna-win-prestigious-rhodes)**  <!--[Fulbright Scholar](https://www.amideast.org/news-resources/announcements/lebanon-west-bank-gaza/hope-fund-scholar-fulbright-alumna-win-prestigious-rhodes).-->
+
+- **[Community Ambassador (2015)](https://www.amideast.org/news-resources/announcements/lebanon-west-bank-gaza/hope-fund-scholar-fulbright-alumna-win-prestigious-rhodes)**, the United States Department of State.   <!--[Community Ambassador](https://mepilaa.wordpress.com/2015/06/23/whos-who-in-mepi-laa-community-ambassador-diala-el-masri/).-->
+
+- **Torch Award for Exceptional Leadership (2014)**, Lebanese American University 
+
+- **Diplomacy Award (2013)**, Harvard World Model United Nations
+
+- **Merit Scholarship (2011)**, Lebanese American University
 
 ## Professional Experience 
+
 **St John’s College, University of Oxford**
 
 Junior Dean Feb 2019 - present
