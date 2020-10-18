@@ -17,7 +17,7 @@
 
    *Fulbright Scholar, GPA: 4.07*
 
-   *Highlighted Courses audited/taken: Linear Algebra, Real Analysis, Advanced Econometrics* 
+   *Highlighted Courses audited/taken: Ex-ante Policy Evaluation, Real Analysis, Advanced Econometrics* 
 
 - **BA in International Affairs, Lebanese American University**, Sep 2011-June 2014
 
