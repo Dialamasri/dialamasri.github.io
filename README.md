@@ -74,7 +74,7 @@ Thesis for degree of Master of Science, University of Oxford. Grade: Distinction
 
 - **Merit Scholarship (2011)**, Lebanese American University
 
-## Professional Experience 
+## Recent Professional Experience 
 
 **St John’s College, University of Oxford** Feb. 2019 - present
    
