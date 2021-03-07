@@ -39,12 +39,10 @@
 
 ## Papers 
 - [Short Term Impacts of Covid-19 on Brazil's Labor Markets](https://www.imf.org/en/Publications/WP/Issues/2021/03/05/The-Short-Term-Impact-of-COVID-19-on-Labor-Markets-Poverty-and-Inequality-in-Brazil-50124).
-
 *Al Masri, D. ; Flamini, V. ; Toscani, F. G. (2021)*
 
  - [The Impact of Migration on Trade: Evidence from Brazil](https://publications.iadb.org/en/impact-migration-trade-evidence-brazil#:~:text=Our%20results%20suggest%20that%20overall,increasing%20total%20imports%20by%2035%25.)
-
-*Al Masri, D and Silva, C. (2020).* 
+*Al Masri, D. and Silva, C. (2020).* 
 
 <!---3. Revisiting the effects of a Peruvian Conditional Cash Transfer on
 utilisation of health services by pregnant women and children. 
