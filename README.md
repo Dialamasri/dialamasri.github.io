@@ -1,5 +1,5 @@
 ## Education 
-- **Ph.D in International Development, University of Oxford**, 2019 – 2022
+- **Ph.D, University of Oxford**, 2019 – 2022
    
    *Rhodes Scholar (First from Lebanon)*
 
@@ -19,7 +19,7 @@
 
    *Highlighted Courses audited/taken: Ex-ante Policy Evaluation, Real Analysis, Advanced Econometrics* 
 
-- **BA in International Affairs, Lebanese American University**, Sep 2011-June 2014
+- **BA in International Affairs and Economics, Lebanese American University**, Sep 2011-June 2014
 
    *Full Merit Scholar, Highest GPA (4.00) in the School of Arts and Sciences* 
 
